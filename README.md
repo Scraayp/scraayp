@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Michal
 #### I am a dutch developer
 
-Skills: VUE JS / REACT / JS / DISCORD API / AND MORE
+Skills: VUE JS / REACT / EXPRESS / DISCORD API / JS / TS / AND MORE
 
 - 🔭 I’m currently working on my own discord bot. 
 - 🌱 I’m currently learning Vue, C# and people. 
