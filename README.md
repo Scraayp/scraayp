@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal aka Scraayp</h1>
 <h3 align="center">A passionate developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [scraayp.xyz](https://github.com/Scraayp/scraayp.xyz)
+- 🔭 I’m currently working on [scraayp.xyz](https://github.com/Scraayp/scraayp.xyz), [michalk.nl](https://github.com/Scraayp/michalk.nl) and [Hez](https://github.com/Scraayp/Hez)
 
 - 🌱 I’m currently learning **CSharp, mysql, vue and react.**
 
