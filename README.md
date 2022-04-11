@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Michal aka Scraayp
-![](https://raw.githubusercontent.com/Scraayp/scraayp/main/img/Scraayp.png)
 
 I'm a software developer passationed with the discord api. 
 
