@@ -8,6 +8,3 @@ Skills: DISCORD API / VUE JS / TS / JS / NODE
 - 🌱 I’m currently learning C#, React and CSS 
 - 📫 How to reach me: scraayp@gmail.com 
 - 😄 Pronouns: He/Him, it 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scraayp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](scraayp.xyz)  
