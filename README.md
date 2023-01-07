@@ -6,5 +6,5 @@ Skills: DISCORD API / VUE JS / TS / JS / NODE
 
 - 🔭 I’m currently working on a discord bot. 
 - 🌱 I’m currently learning C#, React and CSS 
-- 📫 How to reach me: scraayp@gmail.com 
+- 📫 How to reach me: hello@michalk.nl
 - 😄 Pronouns: He/Him, it 
